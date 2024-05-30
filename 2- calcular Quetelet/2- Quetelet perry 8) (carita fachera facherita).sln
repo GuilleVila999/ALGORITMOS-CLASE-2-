@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.5.002.0
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "2- Quetelet perry 8) (carita fachera facherita)", "2- Quetelet perry 8) (carita fachera facherita).csproj", "{44DCA178-D902-4D76-8754-7243C2475B42}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "2- Quetelet", "2- Quetelet.csproj", "{44DCA178-D902-4D76-8754-7243C2475B42}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
